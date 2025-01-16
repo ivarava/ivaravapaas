@@ -1,0 +1,8 @@
+app:
+    php:
+        version: "8.3"
+    environment_variables: {}
+    hooks: {}
+services:
+    mysql:
+        version: "8.0"
