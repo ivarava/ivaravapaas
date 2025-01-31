@@ -6,6 +6,7 @@
     "composer-runtime-api": "^2.0",
     "shopware/administration": "*",
     "shopware/core": "v6.6.9.0",
+    "shopware/deployment-helper": "*",
     "shopware/elasticsearch": "*",
     "shopware/k8s-meta": "*",
     "shopware/storefront": "*",
