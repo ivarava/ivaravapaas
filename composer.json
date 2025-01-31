@@ -10,7 +10,8 @@
     "shopware/elasticsearch": "*",
     "shopware/k8s-meta": "*",
     "shopware/storefront": "*",
-    "symfony/flex": "~2"
+    "symfony/flex": "~2",
+    "symfony/redis-messenger": "*"
   },
   "repositories": [
     {
